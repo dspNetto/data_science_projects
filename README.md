@@ -1,2 +1,2 @@
-# data_science_projects
-My Data Science projects portifolio
+# Data Science Projects
+My portifolio
