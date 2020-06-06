@@ -3,22 +3,21 @@
 </p>
 
 # Diego Netto
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Electrical and Electronic Engineer*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+I am an Engineering professional with a Bachelor of Science (BSc) degree focused in Electrical and Electronics Engineering and a demonstrated history of working in the automotive industry.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+I always seek new ideas and possibilities. I value intelligence, knowledge, and competence and I consider myself an ambitious and self-confident person. People that know me highlights my creativity and my attention to details. I like to always have in hands a plan for each task that I get involved and I am usually elaborating and using checklists and flowcharts. I always seek impartiality in decisions relying on logic and facts. When I see opportunity, I question and challenge the existing procedures instead of accepting the argument that things have always been done in this way.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+I am also honest, direct, rational, and ethical and I value the same in others around me. 
+
+**Background in:** Hardware Design, Automotive Industry
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
-
+* [LinkedIn](https://www.linkedin.com/in/diego-netto-11b94956/)
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Check below the Data Science projects I've been working on:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
