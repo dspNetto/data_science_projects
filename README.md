@@ -19,7 +19,7 @@ I am also honest, direct, rational, and ethical and I value the same in others a
 ## Projetos:
 Check below the Data Science projects I've been working on:
 
-* **Analisando dados do Airbnb**
+* **Analisando dados do Airbnb** - Project_Analyzing_Airbnb_Data.ipynb
 
 
 ---
